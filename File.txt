@@ -1,7 +1,7 @@
-GroupACP13
-Project Test
-Time 300 min
-Numb oo task
-add some text
+
+First student res:
+1 - 5
+2 - 3
+1 - 5
 
 
