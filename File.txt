@@ -1,4 +1,11 @@
-Group ACP13
+Group ACP13 
 Project Test
+<<<<<<< HEAD
 Time 300 min
+=======
+Number of people: 2
+Couch: SerhiiBilobrov
+Mood: good
+Time 60 minutes
+>>>>>>> a5bf714c6933c324554365b2492ee42d69b447ce
 
