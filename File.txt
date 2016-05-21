@@ -17,5 +17,10 @@ Time 60 minutes
 Numb oo task
 add some text
 
+First student res:
+1 - 5
+2 - 3
+1 - 5
+
 
 
