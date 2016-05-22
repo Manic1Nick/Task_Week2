@@ -1,5 +1,4 @@
 
 If you want to be ok......
 
-
-lerning Scala every day
+learning Scala every day
