@@ -1,7 +1,4 @@
-Group ACP13 
+Group ACP13
 Project Test
-Number of people: 2
-Couch: SerhiiBilobrov
-Mood: good
 Time 60 minutes
 
